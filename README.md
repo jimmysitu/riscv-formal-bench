@@ -1,5 +1,5 @@
 # riscv-formal-bench
-A wrapper for riscv-formal
+A wrapper for [riscv-formal](https://github.com/SymbioticEDA/riscv-formal)
 
 ## Usage
 - Install prerequisites
